@@ -1,32 +1,48 @@
 Count,Item Name,Price Bought At,Acquisition Method,Current Steam Price,Profit/Loss Per Item,Total Profit/Loss,Timestamp
-1,Galil AR | Cold Fusion (Field-Tested),0.0,Game Drop,€0.08,0.07,0.07,2025-04-06T02:47:25.277371
-2,Kilowatt Case,0.0,Game Drop,€0.85,0.74,1.48,2025-04-06T02:47:25.533169
-1,StatTrak™ MP9 | Black Sand (Well-Worn),0.16,Manual Purchase,€0.15,-0.03,-0.03,2025-04-06T02:47:25.876182
-1,StatTrak™ M4A4 | Poly Mag (Well-Worn),0.26,Manual Purchase,€0.21,-0.08,-0.08,2025-04-06T02:47:26.226416
-1,StatTrak™ USP-S | Torque (Field-Tested),1.55,Manual Purchase,€2.65,0.76,0.76,2025-04-06T02:47:26.589871
-1,StatTrak™ Glock-18 | Off World (Well-Worn),0.65,Manual Purchase,€0.57,-0.15,-0.15,2025-04-06T02:47:26.850534
-1,StatTrak™ AK-47 | Uncharted (Field-Tested),3.79,Manual Purchase,€2.92,-1.25,-1.25,2025-04-06T02:47:27.128843
-1,StatTrak™ MAC-10 | Sakkaku (Battle-Scarred),0.87,Manual Purchase,€0.60,-0.35,-0.35,2025-04-06T02:47:27.379264
-1,StatTrak™ M4A1-S | Emphorosaur-S (Battle-Scarred),2.71,Manual Purchase,,2.09,-0.27,2025-04-06T02:47:27.653044
-1,StatTrak™ PP-Bizon | Space Cat (Field-Tested),0.58,Manual Purchase,€0.60,-0.06,-0.06,2025-04-06T02:48:28.289678
-1,Charm | Lil' SAS,0.8,Manual Purchase,€0.60,-0.28,-0.28,2025-04-06T02:48:28.541380
-1,Enforcer | Phoenix,4.68,Manual Purchase,€4.43,-0.83,-0.83,2025-04-06T02:48:28.856097
-1,Shattered Web Case,5.23,Manual Purchase,€5.43,-0.51,-0.51,2025-04-06T02:48:29.127551
-3,Gallery Case,0.88,Manual Purchase,€0.80,-0.18,-0.54,2025-04-06T02:48:29.424772
-1,"StatTrak™ Music Kit | Denzel Curry, ULTIMATE",8.01,Manual Purchase,€7.45,-1.53,-1.53,2025-04-06T02:48:29.698897
-1,P2000 | Sure Grip (Field-Tested),0.0,Case Opening,No Listings,N/A,N/A,2025-04-06T02:48:29.948007
-3,Gallery Case,0.76,Armory Pass,€0.80,-0.06,-0.18,2025-04-06T02:48:30.211825
-3,Fever Case,0.76,Armory Pass,No Listings,N/A,N/A,2025-04-06T02:48:30.500287
-1,Charm | Big Kev,1.14,Armory Pass,€0.41,-0.78,-0.78,2025-04-06T02:48:30.764311
-1,Sticker | Boom Trail (Glitter),0.38,Armory Pass,€0.23,-0.18,-0.18,2025-04-06T02:48:31.008239
-1,Sticker | Boom Detonation (Glitter),0.38,Armory Pass,€0.16,-0.24,-0.24,2025-04-06T02:48:31.288855
-1,Sticker | Scorch Loop,0.38,Armory Pass,€0.32,-0.1,-0.1,2025-04-06T02:48:31.548262
-1,Sticker | Winding Scorch,0.38,Armory Pass,€0.41,-0.02,-0.02,2025-04-06T02:48:31.831680
-1,Sticker | Hydro Wave,0.38,Armory Pass,€0.32,-0.1,-0.1,2025-04-06T02:48:32.108986
-1,Sticker | Bolt Energy,0.38,Armory Pass,€0.13,-0.27,-0.27,2025-04-06T02:48:32.385724
-1,Sticker | Hydro Wave,0.38,Armory Pass,€0.32,-0.1,-0.1,2025-04-06T02:48:32.651491
-1,Sticker | Lefty (CT),0.38,Armory Pass,€0.05,-0.34,-0.34,2025-04-06T02:48:32.982185
-1,Sticker | Bolt Charge,0.38,Armory Pass,€0.83,0.34,0.34,2025-04-06T02:48:33.247187
-1,Sticker | Rainbow Route (Holo),0.38,Armory Pass,€0.87,0.38,0.38,2025-04-06T02:48:33.570689
-1,Sticker | Hot Rod Heat,0.38,Armory Pass,€0.13,-0.27,-0.27,2025-04-06T02:49:34.220575
-1,Sticker | Hypnoteyes (Holo),0.38,Armory Pass,€0.42,-0.01,-0.01,2025-04-06T02:49:34.508269
+1,Galil AR | Cold Fusion (Field-Tested),0.0,Game Drop,€0.08,0.07,0.07,2025-04-07T01:27:13.868008
+1,PP-Bizon | Urban Dashed (Well-Worn),0.0,Game Drop,€0.05,0.04,0.04,2025-04-07T01:27:13.868384
+1,AUG | Contractor (Field-Tested),0.0,Game Drop,€0.03,0.03,0.03,2025-04-07T01:27:13.868685
+1,Tec-9 | Army Mesh (Field-Tested),0.0,Game Drop,€0.03,0.03,0.03,2025-04-07T01:27:13.868997
+2,Kilowatt Case,0.0,Game Drop,€0.85,0.74,1.48,2025-04-07T01:27:13.869311
+1,StatTrak™ MP9 | Black Sand (Well-Worn),0.16,Manual Purchase,€0.14,-0.04,-0.04,2025-04-07T01:27:13.869650
+1,StatTrak™ M4A4 | Poly Mag (Well-Worn),0.26,Manual Purchase,No Listings,N/A,N/A,2025-04-07T01:27:13.869944
+1,StatTrak™ USP-S | 27 (Field-Tested),1.55,Manual Purchase,€0.94,-0.73,-0.73,2025-04-07T01:27:13.870246
+1,StatTrak™ Glock-18 | Off World (Well-Worn),0.65,Manual Purchase,€0.61,-0.12,-0.12,2025-04-07T01:27:13.870568
+1,StatTrak™ AK-47 | Uncharted (Field-Tested),3.79,Manual Purchase,No Listings,N/A,N/A,2025-04-07T01:27:13.870854
+1,StatTrak™ MAC-10 | Sakkaku (Battle-Scarred),0.87,Manual Purchase,€0.65,-0.3,-0.3,2025-04-07T01:27:13.871218
+1,StatTrak™ M4A1-S | Emphorosaur-S (Battle-Scarred),2.71,Manual Purchase,No Listings,N/A,N/A,2025-04-07T01:27:13.871566
+1,StatTrak™ PP-Bizon | Space Cat (Field-Tested),0.58,Manual Purchase,€0.59,-0.07,-0.07,2025-04-07T01:27:13.871913
+1,Charm | Lil' SAS,0.8,Manual Purchase,No Listings,N/A,N/A,2025-04-07T01:27:13.872212
+1,Enforcer | Phoenix,4.68,Manual Purchase,€4.08,-1.13,-1.13,2025-04-07T01:27:13.872479
+1,Shattered Web Case,5.23,Manual Purchase,€5.35,-0.58,-0.58,2025-04-07T01:27:13.872744
+3,Gallery Case,0.88,Manual Purchase,€0.80,-0.18,-0.54,2025-04-07T01:27:13.872992
+1,"StatTrak™ Music Kit | Denzel Curry, ULTIMATE",8.01,Manual Purchase,€7.38,-1.59,-1.59,2025-04-07T01:27:13.873291
+1,Shanghai 2024 Legends Autograph Capsule,0.25,Manual Purchase,€0.25,-0.03,-0.03,2025-04-07T01:27:13.873632
+1,Shanghai 2024 Challengers Sticker Capsule,0.25,Manual Purchase,€0.25,-0.03,-0.03,2025-04-07T01:27:13.874021
+1,Shanghai 2024 Challengers Autograph Capsule,0.25,Manual Purchase,€0.25,-0.03,-0.03,2025-04-07T01:27:13.874364
+1,Shanghai 2024 Contenders Sticker Capsule,0.25,Manual Purchase,€0.25,-0.03,-0.03,2025-04-07T01:27:13.874655
+1,Shanghai 2024 Contenders Autograph Capsule,0.25,Manual Purchase,€0.25,-0.03,-0.03,2025-04-07T01:27:13.874988
+1,Shanghai 2024 Champions Autograph Capsule,0.25,Manual Purchase,€0.25,-0.03,-0.03,2025-04-07T01:27:13.875385
+1,Shanghai 2024 Legends Sticker Capsule,0.25,Manual Purchase,€0.26,-0.02,-0.02,2025-04-07T01:27:13.875747
+1,Sticker | MOUZ | Shanghai 2024,0.25,Manual Purchase,€0.03,-0.22,-0.22,2025-04-07T01:27:13.876031
+2,Sticker | Vitality | Shanghai 2024,0.25,Manual Purchase,€0.03,-0.22,-0.44,2025-04-07T01:27:13.876770
+1,Sticker | Team Spirit | Shanghai 2024,0.25,Manual Purchase,€0.03,-0.22,-0.22,2025-04-07T01:27:13.877195
+2,Sticker | G2 Esports | Shanghai 2024,0.25,Manual Purchase,€0.03,-0.22,-0.44,2025-04-07T01:27:13.877697
+1,Sticker | Team Spirit (Glitter) | Shanghai 2024,0.25,Manual Purchase,€0.15,-0.12,-0.12,2025-04-07T01:27:13.878968
+2,Sticker | HEROIC | Shanghai 2024,0.25,Manual Purchase,€0.03,-0.22,-0.44,2025-04-07T01:27:13.880370
+2,Sticker | degster | Shanghai 2024,0.25,Manual Purchase,€0.03,-0.22,-0.44,2025-04-07T01:27:13.880754
+1,P2000 | Sure Grip (Field-Tested),0.0,Case Opening,No Listings,N/A,N/A,2025-04-07T01:27:13.881125
+3,Gallery Case,0.76,Armory Pass,€0.80,-0.06,-0.18,2025-04-07T01:27:13.881519
+2,Fever Case,0.76,Armory Pass,No Listings,N/A,N/A,2025-04-07T01:27:13.881858
+1,Charm | Big Kev,1.14,Armory Pass,€0.41,-0.78,-0.78,2025-04-07T01:27:13.882196
+1,Sticker | Boom Trail (Glitter),0.38,Armory Pass,€0.24,-0.17,-0.17,2025-04-07T01:27:13.882528
+1,Sticker | Boom Detonation (Glitter),0.38,Armory Pass,€0.17,-0.23,-0.23,2025-04-07T01:27:13.882927
+1,Sticker | Scorch Loop,0.38,Armory Pass,€0.34,-0.08,-0.08,2025-04-07T01:27:13.883217
+1,Sticker | Winding Scorch,0.38,Armory Pass,€0.40,-0.03,-0.03,2025-04-07T01:27:13.883487
+1,Sticker | Hydro Wave,0.38,Armory Pass,€0.32,-0.1,-0.1,2025-04-07T01:27:13.883756
+1,Sticker | Bolt Energy,0.38,Armory Pass,€0.11,-0.28,-0.28,2025-04-07T01:27:13.884041
+1,Sticker | Hydro Wave,0.38,Armory Pass,€0.32,-0.1,-0.1,2025-04-07T01:27:13.884302
+1,Sticker | Lefty (CT),0.38,Armory Pass,€0.05,-0.34,-0.34,2025-04-07T01:27:13.884636
+1,Sticker | Hot Rod Heat,0.38,Armory Pass,€0.13,-0.27,-0.27,2025-04-07T01:27:13.884972
+1,Sticker | Hypnoteyes (Holo),0.38,Armory Pass,€0.41,-0.02,-0.02,2025-04-07T01:27:13.885347
+1,Fever Case,0.76,Armory Pass,No Listings,N/A,N/A,2025-04-07T01:27:13.885685

@@ -6,7 +6,7 @@ Count,Item Name,Price Bought At,Acquisition Method
 2,Kilowatt Case,0.0,Game Drop
 1,StatTrak™ MP9 | Black Sand (Well-Worn),0.16,Manual Purchase
 1,StatTrak™ M4A4 | Poly Mag (Well-Worn),0.26,Manual Purchase
-1,StatTrak™ USP-S | Torque (Field-Tested),1.55,Manual Purchase
+1,StatTrak™ USP-S | 27 (Field-Tested),1.55,Manual Purchase
 1,StatTrak™ Glock-18 | Off World (Well-Worn),0.65,Manual Purchase
 1,StatTrak™ AK-47 | Uncharted (Field-Tested),3.79,Manual Purchase
 1,StatTrak™ MAC-10 | Sakkaku (Battle-Scarred),0.87,Manual Purchase
@@ -17,23 +17,23 @@ Count,Item Name,Price Bought At,Acquisition Method
 1,Shattered Web Case,5.23,Manual Purchase
 3,Gallery Case,0.88,Manual Purchase
 1,"StatTrak™ Music Kit | Denzel Curry, ULTIMATE",8.01,Manual Purchase
-1,"Shanghai 2024 Legends Autograph Capsule",0.25,Manual Purchase
-1,"Shanghai 2024 Challengers Sticker Capsule",0.25,Manual Purchase
-1,"Shanghai 2024 Challengers Autograph Capsule",0.25,Manual Purchase
-1,"Shanghai 2024 Contenders Sticker Capsule",0.25,Manual Purchase
-1,"Shanghai 2024 Contenders Autograph Capsule",0.25,Manual Purchase
-1,"Shanghai 2024 Champions Autograph Capsule",0.25,Manual Purchase
-1,"Shanghai 2024 Legends Sticker Capsule",0.25,Manual Purchase
-1,"Sticker | MOUZ | Shanghai 2024",0.25,Manual Purchase
-2,"Sticker | Vitality | Shanghai 2024",0.25,Manual Purchase
-1,"Sticker | Team Spirit | Shanghai 2024",0.25,Manual Purchase
-2,"Sticker | G2 Esports | Shanghai 2024",0.25,Manual Purchase
-1,"Sticker | Team Spirit (Glitter) | Shanghai 2024",0.25,Manual Purchase
-2,"Sticker | HEROIC | Shanghai 2024",0.25,Manual Purchase
-2,"Sticker | degster | Shanghai 2024",0.25,Manual Purchase
+1,Shanghai 2024 Legends Autograph Capsule,0.25,Manual Purchase
+1,Shanghai 2024 Challengers Sticker Capsule,0.25,Manual Purchase
+1,Shanghai 2024 Challengers Autograph Capsule,0.25,Manual Purchase
+1,Shanghai 2024 Contenders Sticker Capsule,0.25,Manual Purchase
+1,Shanghai 2024 Contenders Autograph Capsule,0.25,Manual Purchase
+1,Shanghai 2024 Champions Autograph Capsule,0.25,Manual Purchase
+1,Shanghai 2024 Legends Sticker Capsule,0.25,Manual Purchase
+1,Sticker | MOUZ | Shanghai 2024,0.25,Manual Purchase
+2,Sticker | Vitality | Shanghai 2024,0.25,Manual Purchase
+1,Sticker | Team Spirit | Shanghai 2024,0.25,Manual Purchase
+2,Sticker | G2 Esports | Shanghai 2024,0.25,Manual Purchase
+1,Sticker | Team Spirit (Glitter) | Shanghai 2024,0.25,Manual Purchase
+2,Sticker | HEROIC | Shanghai 2024,0.25,Manual Purchase
+2,Sticker | degster | Shanghai 2024,0.25,Manual Purchase
 1,P2000 | Sure Grip (Field-Tested),0.0,Case Opening
 3,Gallery Case,0.76,Armory Pass
-3,Fever Case,0.76,Armory Pass
+2,Fever Case,0.76,Armory Pass
 1,Charm | Big Kev,1.14,Armory Pass
 1,Sticker | Boom Trail (Glitter),0.38,Armory Pass
 1,Sticker | Boom Detonation (Glitter),0.38,Armory Pass
@@ -43,7 +43,6 @@ Count,Item Name,Price Bought At,Acquisition Method
 1,Sticker | Bolt Energy,0.38,Armory Pass
 1,Sticker | Hydro Wave,0.38,Armory Pass
 1,Sticker | Lefty (CT),0.38,Armory Pass
-1,Sticker | Bolt Charge,0.38,Armory Pass
-1,Sticker | Rainbow Route (Holo),0.38,Armory Pass
 1,Sticker | Hot Rod Heat,0.38,Armory Pass
 1,Sticker | Hypnoteyes (Holo),0.38,Armory Pass
+1,Fever Case,0.76,Armory Pass

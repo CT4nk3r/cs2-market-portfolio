@@ -2,22 +2,17 @@ import csv
 import os
 
 def process_armory_pass(armory_file, pass_price=None):
+    # Default pass price if not provided or found
     if pass_price is None:
-        with open(armory_file, "r", newline="", encoding="utf-8") as csvfile:
-            reader = csv.DictReader(csvfile)
-            for row in reader:
-                if row["Acquisition Method"] == "One-Time Purchase":
-                    pass_price = float(row["Price Bought At"])
-                    break
-        if not pass_price:
-            raise ValueError("Pass price not found in armory_pass file!")
+        pass_price = 15.19  # Default: €15.19 for 40 stars
+        print(f"Using default pass price €{pass_price} for {armory_file} (no 'One-Time Purchase' entry assumed).")
     
     stars_per_euro = 40 / pass_price
     with open(armory_file, "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         armory_items = list(reader)
     
-    with open("inventory.csv", "r", newline="", encoding="utf-8") as csvfile:  # Removed ../
+    with open("inventory.csv", "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         items = list(reader)
     
@@ -32,13 +27,13 @@ def process_armory_pass(armory_file, pass_price=None):
                 "Acquisition Method": armory_item["Acquisition Method"]
             })
     
-    with open("inventory.csv", "w", newline="", encoding="utf-8") as csvfile:  # Removed ../
+    with open("inventory.csv", "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ["Count", "Item Name", "Price Bought At", "Acquisition Method"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(items)
     
-    processed_dir = "armory_pass/processed"  # Removed ../
+    processed_dir = "armory_pass/processed"
     os.makedirs(processed_dir, exist_ok=True)
     os.rename(armory_file, f"{processed_dir}/{os.path.basename(armory_file)}")
     print(f"Processed armory pass: {armory_file}")
@@ -50,7 +45,7 @@ def process_tradeup(tradeup_file):
     
     output_item = next(item for item in tradeup_items if item["Acquisition Method"] == "Trade-Up")
     
-    with open("inventory.csv", "r", newline="", encoding="utf-8") as csvfile:  # Removed ../
+    with open("inventory.csv", "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         items = list(reader)
     
@@ -61,13 +56,13 @@ def process_tradeup(tradeup_file):
         "Acquisition Method": output_item["Acquisition Method"]
     })
     
-    with open("inventory.csv", "w", newline="", encoding="utf-8") as csvfile:  # Removed ../
+    with open("inventory.csv", "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ["Count", "Item Name", "Price Bought At", "Acquisition Method"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(items)
     
-    processed_dir = "tradeups/processed"  # Removed ../
+    processed_dir = "tradeups/processed"
     os.makedirs(processed_dir, exist_ok=True)
     os.rename(tradeup_file, f"{processed_dir}/{os.path.basename(tradeup_file)}")
     print(f"Processed trade-up: {tradeup_file}")
@@ -79,7 +74,7 @@ def process_case_opening(case_file):
     
     outcome_item = {"name": case_data["Outcome Item"]}
     
-    with open("inventory.csv", "r", newline="", encoding="utf-8") as csvfile:  # Removed ../
+    with open("inventory.csv", "r", newline="", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         items = list(reader)
     
@@ -90,19 +85,19 @@ def process_case_opening(case_file):
         "Acquisition Method": "Case Opening"
     })
     
-    with open("inventory.csv", "w", newline="", encoding="utf-8") as csvfile:  # Removed ../
+    with open("inventory.csv", "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ["Count", "Item Name", "Price Bought At", "Acquisition Method"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(items)
     
-    processed_dir = "case_openings/processed"  # Removed ../
+    processed_dir = "case_openings/processed"
     os.makedirs(processed_dir, exist_ok=True)
     os.rename(case_file, f"{processed_dir}/{os.path.basename(case_file)}")
     print(f"Processed case opening: {case_file}")
 
 def process_sale(sale_file):
-    processed_dir = "sales/processed"  # Removed ../
+    processed_dir = "sales/processed"
     os.makedirs(processed_dir, exist_ok=True)
     os.rename(sale_file, f"{processed_dir}/{os.path.basename(sale_file)}")
     print(f"Processed sale: {sale_file}")

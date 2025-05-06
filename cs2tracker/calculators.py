@@ -4,9 +4,7 @@ from .price_fetcher import get_steam_price, clean_price
 
 def get_total_stars_used():
     total_stars = 0
-    tracked_items = set()
-
-    armory_dirs = ["armory_pass", "armory_pass/processed"]  # Removed ../
+    armory_dirs = ["armory_pass", "armory_pass/processed"]
     for armory_dir in armory_dirs:
         if os.path.exists(armory_dir):
             for filename in os.listdir(armory_dir):
@@ -16,17 +14,12 @@ def get_total_stars_used():
                         reader = csv.DictReader(csvfile)
                         for armory_item in reader:
                             if armory_item["Acquisition Method"] == "Armory Pass":
-                                key = (armory_item["Item Name"], float(armory_item["Price Bought At"]), 
-                                       armory_item["Acquisition Method"], int(armory_item["Stars Used"]))
-                                if key not in tracked_items:
-                                    total_stars += int(armory_item["Stars Used"]) * int(armory_item["Count"])
-                                    tracked_items.add(key)
+                                total_stars += int(armory_item["Stars Used"]) * int(armory_item["Count"])
     return total_stars
 
 def get_total_revenue():
     total_revenue = 0
-
-    sale_dirs = ["sales", "sales/processed"]  # Removed ../
+    sale_dirs = ["sales", "sales/processed"]
     for sale_dir in sale_dirs:
         if os.path.exists(sale_dir):
             for filename in os.listdir(sale_dir):
@@ -36,13 +29,12 @@ def get_total_revenue():
                         reader = csv.DictReader(csvfile)
                         for sale_item in reader:
                             total_revenue += float(sale_item["Sold Price"]) * int(sale_item["Count"])
-
     return total_revenue
 
 def calculate_tradeup_profit(inventory_items):
     profit_tradeups = 0
-    tradeup_dirs = ["tradeups", "tradeups/processed"]  # Removed ../
-    sale_dirs = ["sales", "sales/processed"]  # Removed ../
+    tradeup_dirs = ["tradeups", "tradeups/processed"]
+    sale_dirs = ["sales", "sales/processed"]
     sold_items = {}
     for sale_dir in sale_dirs:
         if os.path.exists(sale_dir):

@@ -1,26 +1,194 @@
 {
-    "Sticker | Boom Trail (Glitter)": {
-      "price": "0,30€",
-      "timestamp": "2025-04-05T12:00:00.000000"
-    },
-    "StatTrak™ M4A4 | Poly Mag (Well-Worn)": {
-      "price": "0,30€",
-      "timestamp": "2025-04-05T12:00:00.000000"
-    },
-    "Five-SeveN | Forest Night (Field-Tested)": {
-      "price": "2,30€",
-      "timestamp": "2025-04-05T12:00:00.000000"
-    },
-    "StatTrak™ MP9 | Black Sand (Well-Worn)": {
-      "price": "0,30€",
-      "timestamp": "2025-04-05T12:00:00.000000"
-    },
-    "Enforcer | Phoenix": {
-      "price": "4,30€",
-      "timestamp": "2025-04-05T12:00:00.000000"
-    },
-    "StatTrak™ Glock-18 | Off World (Well-Worn)": {
-      "price": "0,30€",
-      "timestamp": "2025-04-05T12:00:00.000000"
-    }
+  "Sticker | Boom Trail (Glitter)": {
+    "price": "0,24\u20ac",
+    "timestamp": "2025-04-07T01:15:36.731113"
+  },
+  "StatTrak\u2122 M4A4 | Poly Mag (Well-Worn)": {
+    "price": "No Listings",
+    "timestamp": "2025-04-07T01:14:28.024670"
+  },
+  "Five-SeveN | Forest Night (Field-Tested)": {
+    "price": "2,30\u20ac",
+    "timestamp": "2025-04-05T12:00:00.000000"
+  },
+  "StatTrak\u2122 MP9 | Black Sand (Well-Worn)": {
+    "price": "0,14\u20ac",
+    "timestamp": "2025-04-07T01:14:27.739031"
+  },
+  "Enforcer | Phoenix": {
+    "price": "4,08\u20ac",
+    "timestamp": "2025-04-07T01:14:30.285853"
+  },
+  "StatTrak\u2122 Glock-18 | Off World (Well-Worn)": {
+    "price": "0,61\u20ac",
+    "timestamp": "2025-04-07T01:14:28.571313"
+  },
+  "Galil AR | Cold Fusion (Field-Tested)": {
+    "price": "0,08\u20ac",
+    "timestamp": "2025-04-07T01:14:26.354557"
+  },
+  "PP-Bizon | Urban Dashed (Well-Worn)": {
+    "price": "0,05\u20ac",
+    "timestamp": "2025-04-07T01:14:26.690572"
+  },
+  "AUG | Contractor (Field-Tested)": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:14:26.961485"
+  },
+  "Tec-9 | Army Mesh (Field-Tested)": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:14:27.215000"
+  },
+  "Kilowatt Case": {
+    "price": "0,85\u20ac",
+    "timestamp": "2025-04-07T01:14:27.461217"
+  },
+  "StatTrak\u2122 USP-S | Torque (Field-Tested)": {
+    "price": "2,70\u20ac",
+    "timestamp": "2025-04-07T01:14:28.313457"
+  },
+  "StatTrak\u2122 AK-47 | Uncharted (Field-Tested)": {
+    "price": "No Listings",
+    "timestamp": "2025-04-07T01:14:28.854187"
+  },
+  "StatTrak\u2122 MAC-10 | Sakkaku (Battle-Scarred)": {
+    "price": "0,65\u20ac",
+    "timestamp": "2025-04-07T01:14:29.121983"
+  },
+  "StatTrak\u2122 M4A1-S | Emphorosaur-S (Battle-Scarred)": {
+    "price": "No Listings",
+    "timestamp": "2025-04-07T01:14:29.416463"
+  },
+  "StatTrak\u2122 PP-Bizon | Space Cat (Field-Tested)": {
+    "price": "0,59\u20ac",
+    "timestamp": "2025-04-07T01:14:29.750895"
+  },
+  "Charm | Lil' SAS": {
+    "price": "No Listings",
+    "timestamp": "2025-04-07T01:14:30.008393"
+  },
+  "Shattered Web Case": {
+    "price": "5,35\u20ac",
+    "timestamp": "2025-04-07T01:14:30.559971"
+  },
+  "Gallery Case": {
+    "price": "0,80\u20ac",
+    "timestamp": "2025-04-07T01:14:30.819429"
+  },
+  "StatTrak\u2122 Music Kit | Denzel Curry, ULTIMATE": {
+    "price": "7,38\u20ac",
+    "timestamp": "2025-04-07T01:14:31.085724"
+  },
+  "Shanghai 2024 Legends Autograph Capsule": {
+    "price": "0,25\u20ac",
+    "timestamp": "2025-04-07T01:14:31.360079"
+  },
+  "Shanghai 2024 Challengers Sticker Capsule": {
+    "price": "0,25\u20ac",
+    "timestamp": "2025-04-07T01:14:31.780650"
+  },
+  "Shanghai 2024 Challengers Autograph Capsule": {
+    "price": "0,25\u20ac",
+    "timestamp": "2025-04-07T01:15:32.329691"
+  },
+  "Shanghai 2024 Contenders Sticker Capsule": {
+    "price": "0,25\u20ac",
+    "timestamp": "2025-04-07T01:15:32.599428"
+  },
+  "Shanghai 2024 Contenders Autograph Capsule": {
+    "price": "0,25\u20ac",
+    "timestamp": "2025-04-07T01:15:32.864941"
+  },
+  "Shanghai 2024 Champions Autograph Capsule": {
+    "price": "0,25\u20ac",
+    "timestamp": "2025-04-07T01:15:33.147035"
+  },
+  "Shanghai 2024 Legends Sticker Capsule": {
+    "price": "0,26\u20ac",
+    "timestamp": "2025-04-07T01:15:33.456989"
+  },
+  "Sticker | MOUZ | Shanghai 2024": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:15:33.724373"
+  },
+  "Sticker | Vitality | Shanghai 2024": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:15:33.995784"
+  },
+  "Sticker | Team Spirit | Shanghai 2024": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:15:34.276200"
+  },
+  "Sticker | G2 Esports | Shanghai 2024": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:15:34.547689"
+  },
+  "Sticker | Team Spirit (Glitter) | Shanghai 2024": {
+    "price": "0,15\u20ac",
+    "timestamp": "2025-04-07T01:15:34.930564"
+  },
+  "Sticker | HEROIC | Shanghai 2024": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:15:35.206728"
+  },
+  "Sticker | degster | Shanghai 2024": {
+    "price": "0,03\u20ac",
+    "timestamp": "2025-04-07T01:15:35.555713"
+  },
+  "P2000 | Sure Grip (Field-Tested)": {
+    "price": "No Listings",
+    "timestamp": "2025-04-07T01:15:35.851327"
+  },
+  "Fever Case": {
+    "price": "No Listings",
+    "timestamp": "2025-04-07T01:15:36.113352"
+  },
+  "Charm | Big Kev": {
+    "price": "0,41\u20ac",
+    "timestamp": "2025-04-07T01:15:36.442942"
+  },
+  "Sticker | Boom Detonation (Glitter)": {
+    "price": "0,17\u20ac",
+    "timestamp": "2025-04-07T01:15:37.004194"
+  },
+  "Sticker | Scorch Loop": {
+    "price": "0,34\u20ac",
+    "timestamp": "2025-04-07T01:15:37.292699"
+  },
+  "Sticker | Winding Scorch": {
+    "price": "0,40\u20ac",
+    "timestamp": "2025-04-07T01:15:37.558206"
+  },
+  "Sticker | Hydro Wave": {
+    "price": "0,32\u20ac",
+    "timestamp": "2025-04-07T01:15:37.874264"
+  },
+  "Sticker | Bolt Energy": {
+    "price": "0,11\u20ac",
+    "timestamp": "2025-04-07T01:16:38.434762"
+  },
+  "Sticker | Lefty (CT)": {
+    "price": "0,05\u20ac",
+    "timestamp": "2025-04-07T01:16:38.825734"
+  },
+  "Sticker | Bolt Charge": {
+    "price": "0,77\u20ac",
+    "timestamp": "2025-04-07T01:16:39.096103"
+  },
+  "Sticker | Rainbow Route (Holo)": {
+    "price": "0,89\u20ac",
+    "timestamp": "2025-04-07T01:16:39.380069"
+  },
+  "Sticker | Hot Rod Heat": {
+    "price": "0,13\u20ac",
+    "timestamp": "2025-04-07T01:16:39.667135"
+  },
+  "Sticker | Hypnoteyes (Holo)": {
+    "price": "0,41\u20ac",
+    "timestamp": "2025-04-07T01:16:39.951206"
+  },
+  "StatTrak\u2122 USP-S | 27 (Field-Tested)": {
+    "price": "0,94\u20ac",
+    "timestamp": "2025-04-07T01:20:30.238143"
   }
+}
